@@ -1,6 +1,6 @@
 # 🌤️ Tempo Agora
 
-Aplicação web construída com **React + TypeScript + Vite** para exibir informações climáticas em tempo real, utilizando a API da [OpenWeatherMap](https://openweathermap.org/api).
+Aplicação web construída com **React + TypeScript + Tailwind + Vite** para exibir informações climáticas em tempo real, utilizando a API da [OpenWeatherMap](https://openweathermap.org/api).
 
 ## 🔍 Funcionalidades
 
@@ -14,7 +14,7 @@ Aplicação web construída com **React + TypeScript + Vite** para exibir inform
 
 ## 📸 Preview
 
-![preview](link-para-screenshot-ou-gif-aqui)
+![chrome-capture-2025-4-21](https://github.com/user-attachments/assets/b3981633-07c3-488e-a06d-195be6a9dfe1)
 
 ## 🚀 Deploy
 
