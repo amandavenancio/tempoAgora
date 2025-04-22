@@ -1,7 +1,7 @@
 import { WeatherData } from "../types/Weather";
 
 const API_URL = "https://api.openweathermap.org/data/2.5/weather";
-const apiKey = import.meta.env.API_KEY;
+const apiKey = import.meta.env.VITE_OPENWEATHER_API_KEY;
 
 // Função para buscar clima por cidade
 export const fetchWeather = async (city: string): Promise<WeatherData> => {
