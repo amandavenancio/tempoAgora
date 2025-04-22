@@ -7,4 +7,6 @@ export interface WeatherData {
     description: string;
     icon: string;
   }[];
+  timezone: number;
 }
+  

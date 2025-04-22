@@ -13,9 +13,8 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [forecast, setForecast] = useState<any[]>([]);
 
-  const backgroundClass = weather?.main.temp > 25
-    ? 'bg-gradient-to-r from-yellow-200 to-yellow-400'
-    : 'bg-gradient-to-r from-blue-200 to-blue-400';
+  const backgroundClass =
+  (weather?.main?.temp ?? 0) > 25 ? "bg-yellow-200" : "bg-blue-200";
 
   const handleSearch = async () => {
     try {
