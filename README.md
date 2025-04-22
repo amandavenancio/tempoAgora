@@ -19,7 +19,7 @@ Aplicação web construída com **React + TypeScript + Tailwind + Vite** para ex
 ## 🚀 Deploy
 
 A aplicação está disponível em:  
-👉 [https://tempoagora.vercel.app](https://tempoagora.vercel.app)
+👉 [https://tempoagora-amanda-venancios-projects.vercel.app/](https://tempoagora-amanda-venancios-projects.vercel.app/)
 
 ## 🛠️ Tecnologias
 
